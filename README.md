@@ -1,7 +1,8 @@
 # Calculator
 
 <p  align="center">
- <img  src="https://github.com/MinevichAndrei/flutter-chat/blob/main/assets/images/splash.png?raw=true"/>
+ <img  src="https://github.com/MinevichAndrei/Flutter-calculator/blob/%233/assets/Screenshot_1.png?raw=true" alt="drawing" width="200"/>
+ <img  src="https://github.com/MinevichAndrei/Flutter-calculator/blob/%233/assets/Screenshot_2.png?raw=true" alt="drawing" width="200"/>
 </p>
 
 A simple calculator written in Flutter
